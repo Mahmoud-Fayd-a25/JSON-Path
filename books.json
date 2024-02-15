@@ -1,0 +1,41 @@
+{
+  "library": {
+    "name": "Fantastic Library",
+    "location": "Cityville",
+    "books": [
+      {
+        "id": 1,
+        "title": "The Art of Programming",
+        "author": "John Coder",
+        "genre": "Technical",
+        "published_year": 2020,
+        "ratings": {
+          "average": 4.5,
+          "reviews": 200
+        }
+      },
+      {
+        "id": 2,
+        "title": "Mysteries of the Universe",
+        "author": "Stellar Scientist",
+        "genre": "Science",
+        "published_year": 2019,
+        "ratings": {
+          "average": 4.8,
+          "reviews": 150
+        }
+      },
+      {
+        "id": 3,
+        "title": "Epic Fantasy Saga",
+        "author": "Fantasy Writer",
+        "genre": "Fantasy",
+        "published_year": 2021,
+        "ratings": {
+          "average": 4.2,
+          "reviews": 180
+        }
+      }
+    ]
+  }
+}
